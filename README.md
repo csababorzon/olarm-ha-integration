@@ -19,7 +19,7 @@ If you encounter an error with the integration, resulting in its malfunction or 
 ## Installation Steps
 1. Install via HACS.
 2. Restart Home Assistant.
-3. Get your Olarm API key at: https://user.olarm.co/#/api.
+3. Get your Olarm API key at: https://user.olarm.com/#/api.
 4. [Add Integration Here](https://my.home-assistant.io/redirect/config_flow_start/?domain=olarm_sensors)
 5. Enter these details in the fields in the popup. (Only API key is needed)
    It gets all the devices associated with the API key automatically.
